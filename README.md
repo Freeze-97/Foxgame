@@ -14,7 +14,7 @@ Game depth: [Insert your depth here if applicable, e.g., 3 levels deep]
 
 Performance: Suitable for turn-based play with minimal lag.
 
-Classes Involved:
+## Classes Involved:
 
 FoxGameMiniMax: Core AI logic.
 
